@@ -1,4 +1,4 @@
-Students are expected to build their EI Quiz apps utilizing the following methods:
+#### Students are expected to build their EI Quiz apps utilizing the following methods:
 
 1. All data should be stored in a centralized data STORE (variable).
 2. No HTML should exist in the `index.html` file that will not visibly persist throughout the entirety of the application.
